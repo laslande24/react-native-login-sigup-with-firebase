@@ -7,13 +7,14 @@ import { initializeAuth, getReactNativePersistence } from "firebase/auth";
 import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 
 // Your web app's Firebase configuration
+//create a FIrebase account and project and upload the firebaseConfig 
 const firebaseConfig = {
-  apiKey: "AIzaSyDJy0jQXRNE_0ctnUIb0BUoWG6JhCAvJQw",
-  authDomain: "react-native-login-10dc6.firebaseapp.com",
-  projectId: "react-native-login-10dc6",
-  storageBucket: "react-native-login-10dc6.appspot.com",
-  messagingSenderId: "104593181792",
-  appId: "1:104593181792:web:f876a0914c6bed3d6d0705",
+  apiKey: "Yout API Key",
+  authDomain: "#",
+  projectId: "#",
+  storageBucket: "#",
+  messagingSenderId: "#",
+  appId: "#",
 };
 
 // Initialize Firebase
